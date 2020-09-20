@@ -1,5 +1,7 @@
 # vue-el-editor
 
+![DEMO](./demo.png)
+
 ## Project setup
 ```
 npm install
